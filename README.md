@@ -6,7 +6,7 @@ dourado da marca, tipografia pesada estilo lanchonete e layout responsivo.
 
 ## Visão geral
 
-- **Um único arquivo** (`zequi-lanches.html`) — HTML, CSS e JavaScript embutidos. Sem build, sem dependências para instalar.
+- **Um único arquivo** (`index.html`) — HTML, CSS e JavaScript embutidos. Sem build, sem dependências para instalar.
 - **Fotos embutidas em base64**, então o arquivo funciona sozinho, sem precisar levar uma pasta de imagens junto.
 - Fontes carregadas do Google Fonts (**Anton** para títulos, **Inter** para o texto) — única dependência externa, exige internet para exibir a tipografia certa.
 
@@ -28,8 +28,8 @@ Cardápio · Nossa história · Onde estamos · "Bateu a fome?" (CTA) · Rodapé
 
 ```bash
 # clicar duas vezes no arquivo, ou:
-xdg-open zequi-lanches.html      # Linux
-open zequi-lanches.html          # macOS
+xdg-open index.html      # Linux
+open index.html          # macOS
 ```
 
 Se quiser servir localmente (recomendado para testar como em produção):
